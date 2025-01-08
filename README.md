@@ -1,4 +1,11 @@
-# ai-group-info-share
-分享的链接或内容写在这个文件
+# NOW: 语音转文字
 
-尝试修改
+## speech2text模型
+### SenseVoice
+github: https://github.com/Mu-L/SenseVoice
+
+### NExT-GPT
+github: https://github.com/NExT-GPT/NExT-GPT
+
+### FunASR（阿里的一个语音识别工具）
+github: https://github.com/fanshuxian/FunASR
