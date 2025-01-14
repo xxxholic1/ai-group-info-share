@@ -33,3 +33,11 @@ https://borretti.me/article/how-i-use-claude?continueFlag=4eb33b14b5288121f74719
 自Claude 3.6版本发布后，作者的使用频率显著增加。他通过数据分析展示了与Claude交流的量和质的变化，并探讨了这种变化的原因。  
 作者还分享了使用Claude的不同场景，包括寻求建议、探索想法、编程帮助、写作批评等，并强调了与Claude交流的乐趣和其在性能、可靠性、情感交流方面的优势。
 （作者：蚁工厂 原文：https://weibo.com/2194035935/P7JMiDFUJ）
+
+
+### Cursor 生产力指南
+#### 地址
+https://c6k.app/posts/cursor-guide?continueFlag=4eb33b14b5288121f74719c13c0c4a02
+#### 简介
+作者整理了一些Cursor 的使用技巧和场景。
+（作者：蚁工厂 原文：https://weibo.com/2194035935/P5LFFiFBc）
